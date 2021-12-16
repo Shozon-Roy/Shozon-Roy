@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shozon Roy
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
-- 📫 How to reach me//Shozon.roy2 Find On Facebook
+- 📫https://www.facebook.com/shozon.roy2 
 
 <!---
 Shozon-Roy/Shozon-Roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
