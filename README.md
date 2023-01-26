@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [shozonroy.blogspot.com](https://shozonroy.blogspot.com)
 
-- 📫 How to reach me **shozonroy2@gmail**
+- 📫 How to reach me **shozonroy2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
