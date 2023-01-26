@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shozon-roy&label=Profile%20views&color=0e75b6&style=flat" alt="shozon-roy" /> </p>
 
-- 📝 I regularly write articles on [shozonroy.blogspot.com](shozonroy.blogspot.com)
+- 📝 I regularly write articles on [shozonroy.blogspot.com](https://shozonroy.blogspot.com)
 
 - 📫 How to reach me **shozonroy2@gmail**
 
