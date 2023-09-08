@@ -1,6 +1,6 @@
 ##
 <div align="left">
-  <img height="15" 
+  <img height="25" 
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
 
