@@ -73,5 +73,8 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shozon-roy&show_icons=true&locale=en&layout=compact" alt="shozon-roy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shozon-roy&show_icons=true&locale=en" alt="shozon-roy" /></p>
 
 ###
