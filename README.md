@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="150" 
+##
+<div align="left">
+  <img height="15" 
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
 
