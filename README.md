@@ -25,9 +25,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+- 📝 I regularly write articles on [shozonroy.blogspot.com](https://shozonroy.blogspot.com)
 
-<p align="left">I'm  Shozon Roy from Dinajpur,Dhaka,Bangladesh<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- 📝 I regularly write articles on [shozonroy.blogspot.com](https://shozonroy.blogspot.com)<br><br>- 📫 How to reach me **shozonroy2@gmail.com**<br><br>- ⚡ In my free time I ...</p>
-
+- 📫 How to reach me **shozonroy2@gmail.com**
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
