@@ -38,7 +38,7 @@
 
 - 📝 I regularly write articles on [shozonroy.blogspot.com](https://shozonroy.blogspot.com)
 
-- 📫 How to reach me **shozonroy2@gmail.com**
+- 📫 How to reach me **devshozon999@gmail.com**
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
