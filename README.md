@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+
+<img src="https://komarev.com/ghpvc/?username=Shozon-Roy&&style=flat-square" align="center" />
 </div>
 
 
@@ -7,8 +8,12 @@
 <div align="left">
   <img height="25" 
   <img height="19" 
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Shozon-Roy&&style=flat-square" align="center" />
 </div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Franklin&weight=700&size=20&pause=800&color=3384F7&width=500&lines=Hi+there!+I+am+Shozon+Roy)](https://git.io/typing-svg)
+
 
 
 ###
@@ -96,5 +101,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shozon-Roy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 ###
